@@ -3,7 +3,7 @@
 Esse é um projeto de placa decorativa de natal baseada no MCU Risc V CH32V003
 
 ## Requisitos 
- - MCU CH32V003F6P6
+ - MCU CH32V003F4P6
  - Alimentação por bateria CR2032
  - Animação em LEDs
  - Projeto no Kicad
